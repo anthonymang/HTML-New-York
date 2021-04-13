@@ -1,0 +1,41 @@
+img {
+    width: 100%;
+}
+
+main {
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: white;
+    padding-bottom: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+}
+
+.para-one {
+    color: black;
+}
+
+.para-lower {
+    color: grey
+}
+
+h2{
+    color: red
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 60px;
+    padding-top: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+}
